@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  [![LinkedIn Badge](https://img.shields.io/badge/-@Kripanshu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wdwdw-singh/)](https://www.linkedin.com/in/wdwdw-singh/) 
-  [![Email Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wdwdw@gmail.com)](mailto:wdwdw@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-@Kripanshu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kripanshu-singh/)](https://www.linkedin.com/in/kripanshu-singh/) 
+  [![Email Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kripanshusingh160305@gmail.com)](mailto:kripanshusingh160305@gmail.com)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white&link=https://kripanshu-singh.github.io/me/)](https://kripanshu-singh.github.io/me/)
 </div>
 
