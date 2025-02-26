@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Kripanshu+Singh;Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Kripanshu+Singh;Full+Stack+Developer;MERN+Stack+Enthusiast;Spring+Boot+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -29,22 +29,24 @@ I'm a passionate **Full Stack Developer** with expertise in **MERN stack** and b
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Other
 
 ![System Design](https://img.shields.io/badge/-System%20Design-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![OAuth2.0](https://img.shields.io/badge/-OAuth2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![API Integration](https://img.shields.io/badge/-API%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+
 
 </div>
 
