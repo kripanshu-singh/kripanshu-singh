@@ -179,9 +179,7 @@ Healthcare Appointment System
 
 **Software Engineer | Open for Opportunities**
 
-*Building scalable solutions for healthcare and fintech. Experienced in optimizing systems that serve thousands of users and process millions in transactions.*
-
-**Contact:** +91 7217228199
+*Building scalable solutions for healthcare and fintech. Experienced in optimizing systems that serve thousands of users and process millions of transactions.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kripanshu-singh&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/kripanshu-singh)
 
